@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emasmpo.github.io/bukit/sitemap.xml
